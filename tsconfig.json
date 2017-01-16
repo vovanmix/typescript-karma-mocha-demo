@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": true,
+        "sourceMap": false,
+        "strictNullChecks": true,
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "outDir": "./.ts.build/"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
